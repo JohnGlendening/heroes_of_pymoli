@@ -21,9 +21,9 @@ Pandas is used to uncover the following information:
   * Total Number of Purchases
   * Total Revenue
 * Gender Demographics
- * Percentage and Count of Male Players
- * Percentage and Count of Female Players
- * Percentage and Count of Other / Non-Disclosed
+  * Percentage and Count of Male Players
+  * Percentage and Count of Female Players
+  * Percentage and Count of Other / Non-Disclosed
 * Purchasing Analysis (Gender)
   * Purchase Count
   * Average Purchase Price
